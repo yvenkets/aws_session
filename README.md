@@ -21,3 +21,6 @@ https://hashnode.com/
 6.Create Keep notes with your gmaail account
 
 https://keep.google.com/u
+
+7. Install Sharex tool for screen recording
+https://getsharex.com/downloads/
